@@ -6,11 +6,11 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("KillProcessButton")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Close button for fullscreen application")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("KillProcessButton")]
-[assembly: AssemblyCopyright("Copyright © Marcus App")]
+[assembly: AssemblyCopyright("Copyright © GitHub://MarcusApp")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
