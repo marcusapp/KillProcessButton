@@ -7,7 +7,7 @@
 ## 📋 System Requirements
 
 -   **Operating System**: Windows XP or later (compatible with .NET Framework 4.0).
--   **Storage**: At least 10 MB of free space (excluding audio files).
+-   **Storage**: At least 10 MB of free space.
 
 ----------
 
